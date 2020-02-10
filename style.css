@@ -70,11 +70,29 @@ section {
     margin: 15px 0;
 }
 
+.main {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 10px 10px 50px;
+    text-align: center;
+}
+
+p {
+    line-height: 1.5em;
+    text-indent: 2em;
+    text-align: justify;
+    padding: 30px;
+    margin: 10px 45px 10px 10px;
+    background-color: ivory;
+    box-shadow: 3px 3px 10px 3px #ace0ff;
+}
+
 .bar {
-    left: 65%;
     border-left: solid 1px #3dc8ff;
     padding-left: 15px;
-    min-height: 300px;
 }
 
 .test {
